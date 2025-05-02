@@ -10,7 +10,7 @@ PORTB=0X00;
 delay();
 }}
 void delay(){
-for(int i=0;i&lt;=1000;i++){
+for(int i=0;i <=1000;i++){
 
 }
 }
