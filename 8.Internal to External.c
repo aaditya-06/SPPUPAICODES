@@ -26,10 +26,3 @@ void main(void) {
     
     while(1);  // Stay in infinite loop after transfer is done
 }
-
-
-// "First, we have some numbers inside the microcontroller's memory.
-// We use a communication system called I2C to connect the microcontroller to an external chip (EEPROM).
-// Then, we send these numbers one by one and store them safely into the external chip.
-// Later, if we want, we can read these numbers back from the external chip into the microcontroller again.
-// This way, data can be saved even if the microcontroller is powered off."

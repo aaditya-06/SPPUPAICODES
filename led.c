@@ -1,11 +1,3 @@
-/*
- * File:   led.c
- * Author: shri
- *
- * Created on 04 June 2023, 20:00
- */
-
-
 #include <xc.h>
 #include<pic18f4550.h>
 

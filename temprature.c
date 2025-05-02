@@ -1,10 +1,3 @@
-/*
- * File:   temprature.c
- * Author: shri
- *
- * Created on 05 June 2023, 06:40
- */
-
 
 #include <xc.h>
 #include<pic18f4550.h>
