@@ -1,4 +1,4 @@
-#include &lt;xc.h&gt;
+#include <xc.h>;
 void delay();
 void main(void)
 {
