@@ -9,6 +9,5 @@ void main(main){
    for(i = 0 ; i <= 5 ; i++)
    {
       dest[i] = source[i] ;
-   } 
-  // OUTPUT USING PORT IF NEEDED
+   }
 }
